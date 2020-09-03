@@ -11,7 +11,7 @@ Electron saves data in app.getPath("userData") folder, which is different in eve
 * You don't have to write ```.json``` in the end of a file path, it will add it for you.
 
 [![NPM](https://nodei.co/npm/electron-storage.png?downloads=true&downloadRank=true)](https://nodei.co/npm/electron-storage/)
-[![Package Quality](http://npm.packagequality.com/badge/electron-storage.png)](http://packagequality.com/#?package=electron- storage)
+[![Package Quality](http://npm.packagequality.com/badge/electron-storage.png)](http://packagequality.com/#?package=electron-storage)
 
 [![npm version](https://badge.fury.io/js/electron-storage.svg)](https://badge.fury.io/js/electron-storage)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Cocycles/electron-storage)
